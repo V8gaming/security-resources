@@ -78,7 +78,7 @@ This is a living document to host and contain links and resources for online war
 * [Micro Corruption](https://microcorruption.com)
 
 #### Tools
-
+  * [dnSpy](https://github.com/dnSpy/dnSpy)
 <!-- ------------------------------------------------------- -->
 
 ## Web Application Security
